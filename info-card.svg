@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 252" font-family="Consolas, Menlo, monospace" font-size="13.5">
+<rect x="0.5" y="0.5" width="489" height="251" rx="8" fill="#0d1117" stroke="#30363d"/>
+<rect x="0.5" y="0.5" width="489" height="34" rx="8" fill="#161b22"/>
+<rect x="0.5" y="26" width="489" height="8" fill="#161b22"/>
+<circle cx="26" cy="17.0" r="6" fill="#ff5f56"/>
+<circle cx="46" cy="17.0" r="6" fill="#ffbd2e"/>
+<circle cx="66" cy="17.0" r="6" fill="#27c93f"/>
+<text x="245.0" y="22.0" fill="#8b949e" text-anchor="middle" font-size="12">khusi@github: ~</text>
+<g opacity="1"><text x="18" y="60" fill="#39d353">OS</text><text x="90.89999999999999" y="60" fill="#c9d1d9">Full-Stack Developer &amp; AI Engineer</text></g>
+<g opacity="1"><text x="18" y="84" fill="#39d353">Host</text><text x="90.89999999999999" y="84" fill="#c9d1d9">Guru Nanak Institute of Technology</text></g>
+<g opacity="1"><text x="18" y="108" fill="#39d353">Now</text><text x="90.89999999999999" y="108" fill="#c9d1d9">AI Intern Candidate @ IntraEats</text></g>
+<g opacity="1"><text x="18" y="132" fill="#39d353">Stack</text><text x="90.89999999999999" y="132" fill="#c9d1d9">React * Flask * Node.js * Three.js</text></g>
+<g opacity="1"><text x="18" y="156" fill="#39d353">Learning</text><text x="90.89999999999999" y="156" fill="#c9d1d9">ML / NLP * Sentiment Analysis * scikit-learn</text></g>
+<g opacity="1"><text x="18" y="180" fill="#39d353">Project</text><text x="90.89999999999999" y="180" fill="#c9d1d9">Innovation_Nova - AI Interior Designer</text></g>
+<g opacity="1"><text x="18" y="204" fill="#39d353">Hobbies</text><text x="90.89999999999999" y="204" fill="#c9d1d9">Guitar * Reading * Personal Style</text></g>
+<g opacity="1"><text x="18" y="228" fill="#39d353">Fun fact</text><text x="90.89999999999999" y="228" fill="#c9d1d9">Debugs better with music on</text></g>
+<rect x="18" y="242" width="16" height="12" rx="2" fill="#0d1117" stroke="#30363d" opacity="1">
+</rect>
+<rect x="38" y="242" width="16" height="12" rx="2" fill="#ff5f56" stroke="#30363d" opacity="1">
+</rect>
+<rect x="58" y="242" width="16" height="12" rx="2" fill="#27c93f" stroke="#30363d" opacity="1">
+</rect>
+<rect x="78" y="242" width="16" height="12" rx="2" fill="#ffbd2e" stroke="#30363d" opacity="1">
+</rect>
+<rect x="98" y="242" width="16" height="12" rx="2" fill="#39d353" stroke="#30363d" opacity="1">
+</rect>
+<rect x="118" y="242" width="16" height="12" rx="2" fill="#58a6ff" stroke="#30363d" opacity="1">
+</rect>
+<rect x="138" y="242" width="16" height="12" rx="2" fill="#bc8cff" stroke="#30363d" opacity="1">
+</rect>
+<rect x="158" y="242" width="16" height="12" rx="2" fill="#c9d1d9" stroke="#30363d" opacity="1">
+</rect>
+</svg>
