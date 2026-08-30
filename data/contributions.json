@@ -1,35 +1,7 @@
 {
   "username": "khusiroyme-art",
-  "fetched_at": "2026-08-29T12:40:49.392402Z",
+  "fetched_at": "2026-08-30T11:53:42.223595Z",
   "days": [
-    {
-      "date": "2025-08-24",
-      "level": 0
-    },
-    {
-      "date": "2025-08-25",
-      "level": 0
-    },
-    {
-      "date": "2025-08-26",
-      "level": 0
-    },
-    {
-      "date": "2025-08-27",
-      "level": 0
-    },
-    {
-      "date": "2025-08-28",
-      "level": 0
-    },
-    {
-      "date": "2025-08-29",
-      "level": 0
-    },
-    {
-      "date": "2025-08-30",
-      "level": 0
-    },
     {
       "date": "2025-08-31",
       "level": 0
@@ -1484,11 +1456,15 @@
     },
     {
       "date": "2026-08-29",
-      "level": 0
+      "level": 1
+    },
+    {
+      "date": "2026-08-30",
+      "level": 1
     }
   ],
-  "current_streak": 0,
-  "longest_streak": 12,
-  "total_days_recorded": 371,
-  "total_contributions_text": "25 contributions in the last year"
+  "current_streak": 14,
+  "longest_streak": 14,
+  "total_days_recorded": 365,
+  "total_contributions_text": "27 contributions in the last year"
 }
